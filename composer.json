@@ -1,0 +1,27 @@
+{
+    "name": "edbizarro/laravel-feature-rollout",
+    "description": "Feature rollout in your Laravel application.",
+    "keywords": [
+        "laravel",
+        "rollout",
+        "feature-rollout",
+        "feature-toggle"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduardo Bizarro",
+            "email": "eduardo@zendev.com.br"
+        }
+    ],
+    "require-dev": {
+        "mockery/mockery": "^0.9.9",
+        "orchestra/testbench": "~3.0",
+        "phpunit/phpunit": "^6.3"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}
